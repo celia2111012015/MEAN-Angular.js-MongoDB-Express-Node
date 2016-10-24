@@ -1,7 +1,7 @@
 
 
 # MongoDB_CRUD
-
+This is the back end Node.js project, with Express, main functions are CRUD by MongoDB and OAuth through Twitter, Linkedin and Cacoo... continue adding other social networks.
 
 
 ## Usage
